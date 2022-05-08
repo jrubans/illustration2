@@ -103,13 +103,13 @@ body {
             left: 0;
             right: 0;
             bottom: 0;
-            transform: translateY(0.8em) scale(0.35);
-            border: 0.33em solid #FFFFFF;
+            transform: translateY(0.5rem);
+            border: 0.33em solid #fff;
             margin: auto;
             display: block;
             width: 1em;
             height: 1em;
-            background-color: #440EAA;
+            background-color: #440eaa;
             border-radius: 100%;
         }
     }
@@ -122,48 +122,49 @@ body {
         min-width: 3em;
     }
 
+
     &.text-1 {
-        transform: translate(30%, 21%)
+        transform: translate(30.5%, 22%);
     }
 
     &.text-2 {
-        transform: translate(22%, 315%)
+        transform: translate(22%, 294%);
     }
 
     &.text-3 {
-        transform: translate(2%, 165%)
+        transform: translate(4%, 165%);
     }
 
     &.text-4 {
-        transform: translate(16%, 471%)
+        transform: translate(16%, 434%);
     }
 
     &.text-5 {
-        transform: translate(-9%, 413%)
+        transform: translate(-7%, 385%);
     }
 
     &.text-6 {
-        transform: translate(-6.5%, 574%)
+        transform: translate(-4.5%, 574%);
     }
 
     &.text-7 {
-        transform: translate(-33.5%,253%)
+        transform: translate(-32.5%, 253%);
     }
 
     &.text-8 {
-        transform: translate(-34.5%, 475%)
+        transform: translate(-31.5%, 475%);
     }
 
     &.text-9 {
-        transform: translate(-40.75%, 617%)
+        transform: translate(-36.75%, 617%);
     }
 
     &.text-10 {
-        transform: translate(-16.75%,932%)
+        transform: translate(-19.75%, 837%);
     }
 
     &.text-11 {
-        transform: translate(-38.75%, 930%)
+        transform: translate(-35.75%, 881%);
     }
 
 }
