@@ -196,7 +196,7 @@ body {
 
 
 .arrow {
-    animation: arrow_animation 12s ease-in-out infinite normal forwards;
+    animation: arrow_animation 15s ease-in-out infinite normal forwards;
     offset-distance: 100%;
     will-change: opacity;
     opacity: 0;
@@ -281,7 +281,7 @@ body {
 
 #arrow_11 {
     offset-path: path("M54.83,328.06c206.55,99.8,339.05,49.1,409,3.91");
-    animation-delay: 3.34s;
+    animation-delay: 13.34s;
 }
 
 
@@ -315,7 +315,7 @@ body {
 #arrow_paths {
 
     path {
-        animation: arrow_path_animation 12s ease-in-out infinite normal forwards;
+        animation: arrow_path_animation 15s ease-in-out infinite normal forwards;
         offset-distance: 100%;
         will-change: opacity;
         stroke: #BBBBBB;
@@ -365,6 +365,6 @@ body {
     }
 
     #path11 {
-        animation-delay: 3.34s;
+        animation-delay: 13.34s;
     }
 }
