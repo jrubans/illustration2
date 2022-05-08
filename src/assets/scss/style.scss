@@ -26,7 +26,8 @@ body {
 }
 
 .cls-13 {
-    filter: blur(3px);
+    opacity: 0;
+    display: none;
 }
 
 .illustration {
@@ -146,6 +147,8 @@ body {
         line-height: 1.25em;
         display: block;
         font-size: 1em;
+        text-align: center;
+        min-width: 3em;
     }
 
     &.text-1 {
