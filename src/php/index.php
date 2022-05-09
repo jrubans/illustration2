@@ -9,7 +9,7 @@
 </head>
 <body>
 
-
+<div class="column">
 <div class="illustration-container">
 <div class="illustration">
     <div class="text-container text-1"><div><span>Raw json-rpc</span></div></div>
@@ -25,6 +25,7 @@
     <div class="text-container text-11"><div><span>Transactions</span></div></div>
 
     <?php include('assets/svg/illustration2.svg'); ?>
+</div>
 </div>
 </div>
 
